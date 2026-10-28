@@ -1,0 +1,14 @@
+name: central_achados
+publish_to: none
+description: Desafio investigativo Flutter e Firebase
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^4.0.0
+  firebase_auth: ^6.0.0
+  cloud_firestore: ^6.0.0
+  device_preview: ^1.3.1
+flutter:
+  uses-material-design: true
